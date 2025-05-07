@@ -51,7 +51,6 @@ print("\nBEFORE ADDING POLYNOMIAL 2: ")
 printPolynomial(poly2)
 
 
-
 # Add the two polynomials
 result = addPolynomials(poly1, poly2)
 
